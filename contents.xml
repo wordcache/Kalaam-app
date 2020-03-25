@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+  <title lang="default">اُردوٗ کلام</title>
+
+  <feature name="show-titles" value="true" />
+  <feature name="show-subtitles" value="false" />
+  <feature name="show-references" value="false" />
+  <feature name="launch-action" value="contents" />
+  <feature name="navigation-type" value="up" />
+
+  <contents-items>
+    <contents-item id="1">
+      <title lang="default">1. duniyā kī taḵẖlīq kā bayān</title>
+      <link type="reference" target="B001" />
+    </contents-item>
+
+    <contents-item id="2">
+      <title lang="default">2. gunāh kā āġāz</title>
+      <link type="reference" target="B002" />
+    </contents-item>
+
+    <contents-item id="3">
+      <title lang="default">3. ādam aur havvā ke beṭe</title>
+      <link type="reference" target="B003" />
+    </contents-item>
+
+    <contents-item id="4">
+      <title lang="default">4. ibrāhīm kī āzamāish</title>
+      <link type="reference" target="B004" />
+    </contents-item>
+
+    <contents-item id="5">
+      <title lang="default">5. allah israel ko bachate hain</title>
+      <link type="reference" target="B005" />
+    </contents-item>
+
+    <contents-item id="6">
+      <title lang="default">6. das ahkām</title>
+      <link type="reference" target="B006" />
+    </contents-item>
+
+    <contents-item id="7">
+      <title lang="default">7. gunāh kī qurbānī</title>
+      <link type="reference" target="B007" />
+    </contents-item>
+
+    <contents-item id="8">
+      <title lang="default">8. allah ka khas khadim</title>
+      <link type="reference" target="B008" />
+    </contents-item>
+
+    <contents-item id="9">
+      <title lang="default">9. īsā masīh kī paidāish</title>
+      <link type="reference" target="B009" />
+    </contents-item>
+
+    <contents-item id="10">
+      <title lang="default">10. īsā masīh kā iḵẖtiyār</title>
+      <link type="reference" target="B010" />
+    </contents-item>
+
+    <contents-item id="11">
+      <title lang="default">11. īsā āṅdhī ko thamā detā hai</title>
+      <link type="reference" target="B011" />
+    </contents-item>
+
+    <contents-item id="12">
+      <title lang="default">12. īsā masīh laṛke meṅ se badruh nikāltā hai</title>
+      <link type="reference" target="B012" />
+    </contents-item>
+
+    <contents-item id="13">
+      <title lang="default">13. bīj bone vāle kī tamsīl</title>
+      <link type="reference" target="B013" />
+    </contents-item>
+
+    <contents-item id="14">
+      <title lang="default">14. haqīqī ḵẖushī</title>
+      <link type="reference" target="B014" />
+    </contents-item>
+
+    <contents-item id="15">
+      <title lang="default">15. fasah kī īd kā matlab</title>
+      <link type="reference" target="B015" />
+    </contents-item>
+
+    <contents-item id="16">
+      <title lang="default">16. īsā masīh kī maut</title>
+      <link type="reference" target="B016" />
+    </contents-item>
+
+    <contents-item id="17">
+      <title lang="default">17. īsā jī uṭhtā hai</title>
+      <link type="reference" target="B017" />
+    </contents-item>
+
+    <contents-item id="18">
+      <title lang="default">18. allāh kī bādshāhī meṅ dāḵẖil hone kā tarīkā</title>
+      <link type="reference" target="B018" />
+    </contents-item>
+
+    <contents-item id="20">
+      <title lang="default">1. दुनिया की तख़्लीक़ का बयान</title>
+      <link type="reference" target="B019" />
+    </contents-item>
+
+    <contents-item id="19">
+      <title lang="default">2. गुनाह का आग़ाज़</title>
+      <link type="reference" target="B020" />
+    </contents-item>
+
+    <contents-item id="21">
+      <title lang="default">Urdu</title>
+      <subtitle lang="default">Roman script</subtitle>
+      <link type="screen" target="2" />
+    </contents-item>
+
+    <contents-item id="22">
+      <title lang="default">उर्दू</title>
+      <subtitle lang="default">देवनागरी</subtitle>
+      <link type="screen" target="3" />
+    </contents-item>
+
+    <contents-item id="23">
+      <title lang="default">1. آدم اور حوا</title>
+      <link type="reference" target="B037" />
+    </contents-item>
+
+    <contents-item id="24">
+      <title lang="default">2. گناہ کا آغاز</title>
+      <link type="reference" target="B038" />
+    </contents-item>
+
+    <contents-item id="25">
+      <title lang="default">3. آدم اور حوا کے بیٹے</title>
+      <link type="reference" target="B039" />
+    </contents-item>
+
+    <contents-item id="26">
+      <title lang="default">4. ابراہیم کی آزمائش</title>
+      <link type="reference" target="B040" />
+    </contents-item>
+
+    <contents-item id="27">
+      <title lang="default">1. دنیا کی تخلیق کا بیان</title>
+      <link type="reference" target="B037" />
+    </contents-item>
+
+    <contents-item id="28">
+      <title lang="default">2. گناہ کا آغاز</title>
+      <link type="reference" target="B038" />
+    </contents-item>
+
+    <contents-item id="29">
+      <title lang="default">اُردوٗ</title>
+      <link type="screen" target="4" />
+    </contents-item>
+
+    <contents-item id="32">
+      <title lang="default">1. آدم اور حوا</title>
+      <link type="reference" target="B037" />
+    </contents-item>
+
+    <contents-item id="33">
+      <title lang="default">2. گناہ کا آغاز</title>
+      <link type="reference" target="B038" />
+    </contents-item>
+
+    <contents-item id="34">
+      <title lang="default">3. آدم اور حوا کے بیٹے</title>
+      <link type="reference" target="B039" />
+    </contents-item>
+
+    <contents-item id="35">
+      <title lang="default">4. ابراہیم کی آزمائش</title>
+      <link type="reference" target="B040" />
+    </contents-item>
+
+    <contents-item id="36">
+      <title lang="default">5. اللہ اسرائیل کو بچاتا ہے</title>
+      <link type="reference" target="B041" />
+    </contents-item>
+
+    <contents-item id="37">
+      <title lang="default">6. دس احکام</title>
+      <link type="reference" target="B042" />
+    </contents-item>
+
+    <contents-item id="38">
+      <title lang="default">7. گناہ کی قربانی</title>
+      <link type="reference" target="B043" />
+    </contents-item>
+
+    <contents-item id="39">
+      <title lang="default">8. اللہ کا خاص خادم</title>
+      <link type="reference" target="B044" />
+    </contents-item>
+
+    <contents-item id="40">
+      <title lang="default">9. عیسیٰ مسیح کی پیدائش</title>
+      <link type="reference" target="B045" />
+    </contents-item>
+
+    <contents-item id="41">
+      <title lang="default">10. عیسیٰ مسیح کا اختیار</title>
+      <link type="reference" target="B046" />
+    </contents-item>
+
+    <contents-item id="42">
+      <title lang="default">11. عیسیٰ مسیح آندھی کو تھما دیتا ہے</title>
+      <link type="reference" target="B047" />
+    </contents-item>
+
+    <contents-item id="43">
+      <title lang="default">12. عیسیٰ مسیح لڑکے میں سے بدروح نکالتا ہے</title>
+      <link type="reference" target="B048" />
+    </contents-item>
+
+    <contents-item id="44">
+      <title lang="default">13. بیج بونے والے کی تمثیل</title>
+      <link type="reference" target="B049" />
+    </contents-item>
+
+    <contents-item id="45">
+      <title lang="default">14. حقیقی خوشی</title>
+      <link type="reference" target="B050" />
+    </contents-item>
+
+    <contents-item id="46">
+      <title lang="default">15. فسح کی عید کا مطلب</title>
+      <link type="reference" target="B051" />
+    </contents-item>
+
+    <contents-item id="47">
+      <title lang="default">16. عیسیٰ مسیح کی موت</title>
+      <link type="reference" target="B052" />
+    </contents-item>
+
+    <contents-item id="48">
+      <title lang="default">17. عیسیٰ مسیح جی اُٹھتا ہے</title>
+      <link type="reference" target="B053" />
+    </contents-item>
+
+    <contents-item id="49">
+      <title lang="default">18. اللہ کی بادشاہی میں داخل ہونے کا طریقہ</title>
+      <link type="reference" target="B054" />
+    </contents-item>
+
+    <contents-item id="30">
+      <title lang="default">3. आदम और हव्वा के बेटे</title>
+      <link type="reference" target="B021" />
+    </contents-item>
+
+    <contents-item id="31">
+      <title lang="default">4. इब्राहीम की आज़्माइश</title>
+      <link type="reference" target="B022" />
+    </contents-item>
+
+    <contents-item id="50">
+      <title lang="default">5. अल्लाह इस्राईल को बचाते हैं</title>
+      <link type="reference" target="B023" />
+    </contents-item>
+
+    <contents-item id="51">
+      <title lang="default">6. दस अह्काम</title>
+      <link type="reference" target="B024" />
+    </contents-item>
+
+    <contents-item id="52">
+      <title lang="default">7. गुनाह की क़ुर्बानी</title>
+      <link type="reference" target="B025" />
+    </contents-item>
+
+    <contents-item id="53">
+      <title lang="default">7. गुनाह की क़ुर्बानी</title>
+      <link type="reference" target="B025" />
+    </contents-item>
+
+    <contents-item id="54">
+      <title lang="default">8. अल्लाह का ख़ास ख़ादिम</title>
+      <link type="reference" target="B026" />
+    </contents-item>
+
+    <contents-item id="55">
+      <title lang="default">9. ईसा मसीह की पैदाइश</title>
+      <link type="reference" target="B027" />
+    </contents-item>
+
+    <contents-item id="56">
+      <title lang="default">10. ईसा मसीह का इख़तियार</title>
+      <link type="reference" target="B028" />
+    </contents-item>
+
+    <contents-item id="57">
+      <title lang="default">11. ईसा मसीह आँधी को थमा देता है</title>
+      <link type="reference" target="B029" />
+    </contents-item>
+
+    <contents-item id="58">
+      <title lang="default">12. ईसा मसीह लड़के में से बदरुह निकालता है</title>
+      <link type="reference" target="B030" />
+    </contents-item>
+
+    <contents-item id="59">
+      <title lang="default">13. बीज बोने वाले की तम्सील</title>
+      <link type="reference" target="B031" />
+    </contents-item>
+
+    <contents-item id="60">
+      <title lang="default">14. हक़ीक़ी ख़ुशी</title>
+      <link type="reference" target="B032" />
+    </contents-item>
+
+    <contents-item id="61">
+      <title lang="default">15. फ़सह की ईद का मतलब</title>
+      <link type="reference" target="B033" />
+    </contents-item>
+
+    <contents-item id="62">
+      <title lang="default">16. ईसा मसीह की मौत</title>
+      <link type="reference" target="B034" />
+    </contents-item>
+
+    <contents-item id="63">
+      <title lang="default">17. ईसा मसीह जी उठता है</title>
+      <link type="reference" target="B035" />
+    </contents-item>
+
+    <contents-item id="64">
+      <title lang="default">18. अल्लाह की बादशाही में दाख़िल होने का तरीका</title>
+      <link type="reference" target="B036" />
+    </contents-item>
+
+    <contents-item id="65">
+      <title lang="default">3. qābīl aur hābīl</title>
+      <link type="reference" target="B003" />
+    </contents-item>
+
+    <contents-item id="66">
+      <title lang="default">4. ibrāhīm kī āzamāiś</title>
+      <link type="reference" target="B004" />
+    </contents-item>
+
+    <contents-item id="67">
+      <title lang="default">5. allah israel ko bachate hain</title>
+      <link type="reference" target="B005" />
+    </contents-item>
+
+    <contents-item id="68">
+      <title lang="default">6. das ahkām</title>
+      <link type="reference" target="B006" />
+    </contents-item>
+
+    <contents-item id="69">
+      <title lang="default">7. gunāh kī qurbānī</title>
+      <link type="reference" target="B007" />
+    </contents-item>
+
+    <contents-item id="70">
+      <title lang="default">8. allah ka khas khadim</title>
+      <link type="reference" target="B008" />
+    </contents-item>
+
+    <contents-item id="71">
+      <title lang="default">9. īsā masīh kā nasabnāmā</title>
+      <link type="reference" target="B009" />
+    </contents-item>
+
+    <contents-item id="72">
+      <title lang="default">10. maflūj ke liye chhat kholī jātī hai</title>
+      <link type="reference" target="B010" />
+    </contents-item>
+
+    <contents-item id="73">
+      <title lang="default">11. īsā āṅdhī ko thamā detā hai</title>
+      <link type="reference" target="B011" />
+    </contents-item>
+
+    <contents-item id="74">
+      <title lang="default">12. īsā laṛke meṅ se badruh nikāltā hai</title>
+      <link type="reference" target="B012" />
+    </contents-item>
+
+    <contents-item id="75">
+      <title lang="default">13. bīj bone vāle kī tamsīl</title>
+      <link type="reference" target="B013" />
+    </contents-item>
+
+    <contents-item id="76">
+      <title lang="default">14. haqīqī ḵẖushī</title>
+      <link type="reference" target="B014" />
+    </contents-item>
+
+    <contents-item id="77">
+      <title lang="default">15. fasah kī īd ke liye tayyāriyāṅ</title>
+      <link type="reference" target="B015" />
+    </contents-item>
+
+    <contents-item id="78">
+      <title lang="default">16. īsā kī giriftārī</title>
+      <link type="reference" target="B016" />
+    </contents-item>
+
+    <contents-item id="79">
+      <title lang="default">17. īsā jī uṭhtā hai</title>
+      <link type="reference" target="B017" />
+    </contents-item>
+
+    <contents-item id="80">
+      <title lang="default">18. allah ki badashahi meṅ dakhil hone ka tarika</title>
+      <link type="reference" target="B018" />
+    </contents-item>
+
+    <contents-item id="81">
+      <title lang="default">31. इंजील-ए-मुक़द्दास: सबक़ 1</title>
+      <link type="reference" target="B055.1" />
+    </contents-item>
+
+    <contents-item id="82">
+      <title lang="default">32. इंजील-ए-मुक़द्दास: सबक़ 2</title>
+      <link type="reference" target="B056.1" />
+    </contents-item>
+
+    <contents-item id="83">
+      <title lang="default">33. इंजील-ए-मुक़द्दास: सबक़ 3</title>
+      <link type="reference" target="B057" />
+    </contents-item>
+
+    <contents-item id="84">
+      <title lang="default">34. इंजील-ए-मुक़द्दास: सबक़ 4</title>
+      <link type="reference" target="B058" />
+    </contents-item>
+
+    <contents-item id="85">
+      <title lang="default">35. इंजील-ए-मुक़द्दास: सबक़ 5</title>
+      <link type="reference" target="B059" />
+    </contents-item>
+
+    <contents-item id="86">
+      <title lang="default">36. इंजील-ए-मुक़द्दास: सबक़ 6</title>
+      <link type="reference" target="B060.1" />
+    </contents-item>
+
+    <contents-item id="87">
+      <title lang="default">37. इंजील-ए-मुक़द्दास: सबक़ 7</title>
+      <link type="reference" target="B061" />
+    </contents-item>
+
+    <contents-item id="88">
+      <title lang="default">38. इंजील-ए-मुक़द्दास: सबक़ 8</title>
+      <link type="reference" target="B062" />
+    </contents-item>
+
+    <contents-item id="89">
+      <title lang="default">39. इंजील-ए-मुक़द्दास: सबक़ 9</title>
+      <link type="reference" target="B063" />
+    </contents-item>
+
+    <contents-item id="91">
+      <title lang="default">40. इंजील-ए-मुक़द्दास: सबक़ 10</title>
+      <link type="reference" target="B064" />
+    </contents-item>
+
+    <contents-item id="94">
+      <title lang="default">41. इंजील-ए-मुक़द्दास: सबक़ 11</title>
+      <link type="reference" target="B065" />
+    </contents-item>
+
+    <contents-item id="90">
+      <title lang="default">42. इंजील-ए-मुक़द्दास: सबक़ 12</title>
+      <link type="reference" target="B066" />
+    </contents-item>
+
+    <contents-item id="92">
+      <title lang="default">43. इंजील-ए-मुक़द्दास: सबक़ 13</title>
+      <link type="reference" target="B067" />
+    </contents-item>
+
+    <contents-item id="93">
+      <title lang="default">44. इंजील-ए-मुक़द्दास: सबक़ 14</title>
+      <link type="reference" target="B068" />
+    </contents-item>
+
+    <contents-item id="95">
+      <title lang="default">45. इंजील-ए-मुक़द्दास: सबक़ 15</title>
+      <link type="reference" target="B069" />
+    </contents-item>
+
+    <contents-item id="96">
+      <title lang="default">46. इंजील-ए-मुक़द्दास: सबक़ 16</title>
+      <link type="reference" target="B070" />
+    </contents-item>
+
+    <contents-item id="97">
+      <title lang="default">47. इंजील-ए-मुक़द्दास: सबक़ 17</title>
+      <link type="reference" target="B071" />
+    </contents-item>
+
+    <contents-item id="98">
+      <title lang="default">48. इंजील-ए-मुक़द्दास: सबक़ 18</title>
+      <link type="reference" target="B072" />
+    </contents-item>
+
+    <contents-item id="99">
+      <title lang="default">49. इंजील-ए-मुक़द्दास: सबक़ 19</title>
+      <link type="reference" target="B073" />
+    </contents-item>
+
+    <contents-item id="100">
+      <title lang="default">50. इंजील-ए-मुक़द्दास: सबक़ 20</title>
+      <link type="reference" target="B074" />
+    </contents-item>
+
+    <contents-item id="101">
+      <title lang="default">51. इंजील-ए-मुक़द्दास: सबक़ 21</title>
+      <link type="reference" target="B075" />
+    </contents-item>
+
+    <contents-item id="102">
+      <title lang="default">52. इंजील-ए-मुक़द्दास: सबक़ 22</title>
+      <link type="reference" target="B076" />
+    </contents-item>
+
+    <contents-item id="103">
+      <title lang="default">53. इंजील-ए-मुक़द्दास: सबक़ 23</title>
+      <link type="reference" target="B077" />
+    </contents-item>
+
+    <contents-item id="104">
+      <title lang="default">54. इंजील-ए-मुक़द्दास: सबक़ 24</title>
+      <link type="reference" target="B078" />
+    </contents-item>
+
+    <contents-item id="105">
+      <title lang="default">55. इंजील-ए-मुक़द्दास: सबक़ 25</title>
+      <link type="reference" target="B079" />
+    </contents-item>
+
+    <contents-item id="106">
+      <title lang="default">56. इंजील-ए-मुक़द्दास: सबक़ 26</title>
+      <link type="reference" target="B089" />
+    </contents-item>
+
+    <contents-item id="107">
+      <title lang="default">57. इंजील-ए-मुक़द्दास: सबक़ 27</title>
+      <link type="reference" target="B090" />
+    </contents-item>
+
+    <contents-item id="108">
+      <title lang="default">58. इंजील-ए-मुक़द्दास: सबक़ 28</title>
+      <link type="reference" target="B091" />
+    </contents-item>
+
+    <contents-item id="109">
+      <title lang="default">59. इंजील-ए-मुक़द्दास: सबक़ 29</title>
+      <link type="reference" target="B092" />
+    </contents-item>
+
+    <contents-item id="110">
+      <title lang="default">60. इंजील-ए-मुक़द्दास: सबक़ 30</title>
+      <link type="reference" target="B093" />
+    </contents-item>
+
+    <contents-item id="111">
+      <title lang="default">61. इंजील-ए-मुक़द्दास: सबक़ 31</title>
+      <link type="reference" target="B094" />
+    </contents-item>
+
+    <contents-item id="112">
+      <title lang="default">62. इंजील-ए-मुक़द्दास: सबक़ 32</title>
+      <link type="reference" target="B080" />
+    </contents-item>
+
+    <contents-item id="113">
+      <title lang="default">63. इंजील-ए-मुक़द्दास: सबक़ 33</title>
+      <link type="reference" target="B081" />
+    </contents-item>
+
+    <contents-item id="114">
+      <title lang="default">64. इंजील-ए-मुक़द्दास: सबक़ 34</title>
+      <link type="reference" target="B082" />
+    </contents-item>
+
+    <contents-item id="115">
+      <title lang="default">65. इंजील-ए-मुक़द्दास: सबक़ 35</title>
+      <link type="reference" target="B083" />
+    </contents-item>
+
+    <contents-item id="116">
+      <title lang="default">66. इंजील-ए-मुक़द्दास: सबक़ 36</title>
+      <link type="reference" target="B084" />
+    </contents-item>
+
+    <contents-item id="117">
+      <title lang="default">67. इंजील-ए-मुक़द्दास: सबक़ 37</title>
+      <link type="reference" target="B085" />
+    </contents-item>
+
+    <contents-item id="118">
+      <title lang="default">68. इंजील-ए-मुक़द्दास: सबक़ 38</title>
+      <link type="reference" target="B086" />
+    </contents-item>
+
+    <contents-item id="119">
+      <title lang="default">69. इंजील-ए-मुक़द्दास: सबक़ 39</title>
+      <link type="reference" target="B087" />
+    </contents-item>
+
+    <contents-item id="120">
+      <title lang="default">70. इंजील-ए-मुक़द्दास: सबक़ 40</title>
+      <link type="reference" target="B088" />
+    </contents-item>
+
+    <contents-item id="121">
+      <title lang="default">19. ईसा मसीह के शागिर्द होने की क़ीमत</title>
+      <link type="reference" target="B095" />
+    </contents-item>
+
+    <contents-item id="122">
+      <title lang="default">20. बप्तिस्मा/ अबदी वज़ू</title>
+      <link type="reference" target="B096" />
+    </contents-item>
+
+    <contents-item id="123">
+      <title lang="default">21. तंदरुस्त जमाअत</title>
+      <link type="reference" target="B097" />
+    </contents-item>
+
+    <contents-item id="124">
+      <title lang="default">22. सताया जाना</title>
+      <link type="reference" target="B098" />
+    </contents-item>
+
+    <contents-item id="125">
+      <title lang="default">23. दरियादिली से देना</title>
+      <link type="reference" target="B099" />
+    </contents-item>
+
+    <contents-item id="126">
+      <title lang="default">24. ईसा मसीह को याद करने का तरीक़ा</title>
+      <link type="reference" target="B100" />
+    </contents-item>
+
+    <contents-item id="127">
+      <title lang="default">25. दुआ</title>
+      <link type="reference" target="B101" />
+    </contents-item>
+
+    <contents-item id="128">
+      <title lang="default">26. एक दूसरे से मुहब्बत रखना</title>
+      <link type="reference" target="B102" />
+    </contents-item>
+
+    <contents-item id="129">
+      <title lang="default">27. असली पड़ोसी</title>
+      <link type="reference" target="B103" />
+    </contents-item>
+
+    <contents-item id="130">
+      <title lang="default">28. अल्लाह का कलाम</title>
+      <link type="reference" target="B104" />
+    </contents-item>
+
+    <contents-item id="131">
+      <title lang="default">29. इबादत</title>
+      <link type="reference" target="B105" />
+    </contents-item>
+
+    <contents-item id="133">
+      <title lang="default">30. मोजिज़ात</title>
+      <link type="reference" target="B106" />
+    </contents-item>
+
+    <contents-item id="134">
+      <title lang="default">19. عیسیٰ مسیح کے شاگرد ہونے کی قیمت</title>
+      <link type="reference" target="B107" />
+    </contents-item>
+
+    <contents-item id="135">
+      <title lang="default">20. عبدی وازو / بپتسمہ</title>
+      <link type="reference" target="B109.1" />
+    </contents-item>
+
+    <contents-item id="136">
+      <title lang="default">21. تندرست جماعت</title>
+      <link type="reference" target="B110" />
+    </contents-item>
+
+    <contents-item id="137">
+      <title lang="default">22. ستایا جانا</title>
+      <link type="reference" target="B111" />
+    </contents-item>
+
+    <contents-item id="138">
+      <title lang="default">23. دریا دلی سے دینا</title>
+      <link type="reference" target="B112" />
+    </contents-item>
+
+    <contents-item id="139">
+      <title lang="default">24. عیسیٰ مسیح کو یاد کرنے کا طریقہ</title>
+      <link type="reference" target="B113" />
+    </contents-item>
+
+    <contents-item id="140">
+      <title lang="default">25. دعا</title>
+      <link type="reference" target="B114" />
+    </contents-item>
+
+    <contents-item id="141">
+      <title lang="default">26. ایک دوسرے سے محبت رکھنا</title>
+      <link type="reference" target="B115" />
+    </contents-item>
+
+    <contents-item id="142">
+      <title lang="default">27. اصلی پڑوسی</title>
+      <link type="reference" target="B116" />
+    </contents-item>
+
+    <contents-item id="143">
+      <title lang="default">28. اللہ کا کلام</title>
+      <link type="reference" target="B117" />
+    </contents-item>
+
+    <contents-item id="144">
+      <title lang="default">29. عبادت</title>
+      <link type="reference" target="B117" />
+    </contents-item>
+
+    <contents-item id="145">
+      <title lang="default">30. معجزات</title>
+      <link type="reference" target="B119" />
+    </contents-item>
+
+    <contents-item id="147">
+      <title lang="default">31. انجیل مرقس: سبق 1</title>
+      <link type="reference" target="B108" />
+    </contents-item>
+
+    <contents-item id="148">
+      <title lang="default">32. انجیل مرقس: سبق 2</title>
+      <link type="reference" target="B120" />
+    </contents-item>
+
+    <contents-item id="149">
+      <title lang="default">33. انجیل مرقس: سبق 3</title>
+      <link type="reference" target="B121.1" />
+    </contents-item>
+
+    <contents-item id="150">
+      <title lang="default">34. انجیل مرقس: سبق 4</title>
+      <link type="reference" target="B122" />
+    </contents-item>
+
+    <contents-item id="151">
+      <title lang="default">35. انجیل مرقس: سبق 5</title>
+      <link type="reference" target="B123" />
+    </contents-item>
+
+    <contents-item id="152">
+      <title lang="default">36. انجیل مرقس: سبق 6</title>
+      <link type="reference" target="B124" />
+    </contents-item>
+
+    <contents-item id="153">
+      <title lang="default">37. انجیل مرقس: سبق 7</title>
+      <link type="reference" target="B125" />
+    </contents-item>
+
+    <contents-item id="154">
+      <title lang="default">38. انجیل مرقس: سبق 8</title>
+      <link type="reference" target="B126" />
+    </contents-item>
+
+    <contents-item id="155">
+      <title lang="default">39. انجیل مرقس: سبق 9</title>
+      <link type="reference" target="B127" />
+    </contents-item>
+
+    <contents-item id="156">
+      <title lang="default">40. انجیل مرقس: سبق 10</title>
+      <link type="reference" target="B128" />
+    </contents-item>
+
+    <contents-item id="157">
+      <title lang="default">41. انجیل مرقس: سبق 11</title>
+      <link type="reference" target="B129" />
+    </contents-item>
+
+    <contents-item id="158">
+      <title lang="default">42. انجیل مرقس: سبق 12</title>
+      <link type="reference" target="B130" />
+    </contents-item>
+
+    <contents-item id="159">
+      <title lang="default">43. انجیل مرقس: سبق 13</title>
+      <link type="reference" target="B131" />
+    </contents-item>
+
+    <contents-item id="160">
+      <title lang="default">44. انجیل مرقس: سبق 14</title>
+      <link type="reference" target="B132" />
+    </contents-item>
+
+    <contents-item id="161">
+      <title lang="default">45. انجیل مرقس: سبق 15</title>
+      <link type="reference" target="B133" />
+    </contents-item>
+
+    <contents-item id="162">
+      <title lang="default">46. انجیل مرقس: سبق 16</title>
+      <link type="reference" target="B134" />
+    </contents-item>
+
+    <contents-item id="163">
+      <title lang="default">47. انجیل مرقس: سبق 17</title>
+      <link type="reference" target="B135" />
+    </contents-item>
+
+    <contents-item id="164">
+      <title lang="default">48. انجیل مرقس: سبق 18</title>
+      <link type="reference" target="B136" />
+    </contents-item>
+
+    <contents-item id="165">
+      <title lang="default">49. انجیل مرقس: سبق 19</title>
+      <link type="reference" target="B137" />
+    </contents-item>
+
+    <contents-item id="166">
+      <title lang="default">50. انجیل مرقس: سبق 20</title>
+      <link type="reference" target="B138" />
+    </contents-item>
+
+    <contents-item id="167">
+      <title lang="default">51. انجیل مرقس: سبق 21</title>
+      <link type="reference" target="B139" />
+    </contents-item>
+
+    <contents-item id="168">
+      <title lang="default">52. انجیل مرقس: سبق 22</title>
+      <link type="reference" target="B140" />
+    </contents-item>
+
+    <contents-item id="169">
+      <title lang="default">53. انجیل مرقس: سبق 23</title>
+      <link type="reference" target="B141" />
+    </contents-item>
+
+    <contents-item id="170">
+      <title lang="default">54. انجیل مرقس: سبق 24</title>
+      <link type="reference" target="B142" />
+    </contents-item>
+
+    <contents-item id="171">
+      <title lang="default">55. انجیل مرقس: سبق 25</title>
+      <link type="reference" target="B143" />
+    </contents-item>
+
+    <contents-item id="172">
+      <title lang="default">56. انجیل مرقس: سبق 26</title>
+      <link type="reference" target="B144" />
+    </contents-item>
+
+    <contents-item id="173">
+      <title lang="default">57. انجیل مرقس: سبق 27</title>
+      <link type="reference" target="B145" />
+    </contents-item>
+
+    <contents-item id="174">
+      <title lang="default">58. انجیل مرقس: سبق 28</title>
+      <link type="reference" target="B146" />
+    </contents-item>
+
+    <contents-item id="175">
+      <title lang="default">59. انجیل مرقس: سبق 29</title>
+      <link type="reference" target="B147" />
+    </contents-item>
+
+    <contents-item id="176">
+      <title lang="default">60. انجیل مرقس: سبق 30</title>
+      <link type="reference" target="B148" />
+    </contents-item>
+
+    <contents-item id="177">
+      <title lang="default">61. انجیل مرقس: سبق 31</title>
+      <link type="reference" target="B149" />
+    </contents-item>
+
+    <contents-item id="178">
+      <title lang="default">62. انجیل مرقس: سبق 32</title>
+      <link type="reference" target="B150" />
+    </contents-item>
+
+    <contents-item id="179">
+      <title lang="default">63. انجیل مرقس: سبق 33</title>
+      <link type="reference" target="B151" />
+    </contents-item>
+
+    <contents-item id="180">
+      <title lang="default">64. انجیل مرقس: سبق 34</title>
+      <link type="reference" target="B152" />
+    </contents-item>
+
+    <contents-item id="181">
+      <title lang="default">65. انجیل مرقس: سبق 35</title>
+      <link type="reference" target="B153" />
+    </contents-item>
+
+    <contents-item id="182">
+      <title lang="default">66. انجیل مرقس: سبق 36</title>
+      <link type="reference" target="B154" />
+    </contents-item>
+
+    <contents-item id="183">
+      <title lang="default">67. انجیل مرقس: سبق 37</title>
+      <link type="reference" target="B155" />
+    </contents-item>
+
+    <contents-item id="184">
+      <title lang="default">68. انجیل مرقس: سبق 38</title>
+      <link type="reference" target="B156" />
+    </contents-item>
+
+    <contents-item id="185">
+      <title lang="default">69. انجیل مرقس: سبق 39</title>
+      <link type="reference" target="B157" />
+    </contents-item>
+
+    <contents-item id="186">
+      <title lang="default">70. انجیل مرقس: سبق 40</title>
+      <link type="reference" target="B158" />
+    </contents-item>
+
+    <contents-item id="146">
+      <title lang="default">19. īsā masīh ke shāgird hone kī qīmat</title>
+      <link type="reference" target="B159" />
+    </contents-item>
+
+    <contents-item id="187">
+      <title lang="default">20. baptismā/abdī vazū</title>
+      <link type="reference" target="B160" />
+    </contents-item>
+
+    <contents-item id="188">
+      <title lang="default">21. taṅdarust jamāat</title>
+      <link type="reference" target="B161" />
+    </contents-item>
+
+    <contents-item id="189">
+      <title lang="default">22. satāyā jānā</title>
+      <link type="reference" target="B162" />
+    </contents-item>
+
+    <contents-item id="190">
+      <title lang="default">23. dariyādilī se denā</title>
+      <link type="reference" target="B163" />
+    </contents-item>
+
+    <contents-item id="191">
+      <title lang="default">24. īsā masīh ko yād karne kā tarīqā</title>
+      <link type="reference" target="B164" />
+    </contents-item>
+
+    <contents-item id="192">
+      <title lang="default">25. duā</title>
+      <link type="reference" target="B165" />
+    </contents-item>
+
+    <contents-item id="193">
+      <title lang="default">26. ek dūsre se muhabbat rakhnā</title>
+      <link type="reference" target="B166" />
+    </contents-item>
+
+    <contents-item id="194">
+      <title lang="default">27. aslī paṛosī</title>
+      <link type="reference" target="B167" />
+    </contents-item>
+
+    <contents-item id="195">
+      <title lang="default">28. allāh kā kalām</title>
+      <link type="reference" target="B168" />
+    </contents-item>
+
+    <contents-item id="196">
+      <title lang="default">29. ibādat</title>
+      <link type="reference" target="B169" />
+    </contents-item>
+
+    <contents-item id="197">
+      <title lang="default">30. mojizāt</title>
+      <link type="reference" target="B170" />
+    </contents-item>
+
+    <contents-item id="198">
+      <title lang="default">31. iṅjīl marqus: sabaq 1</title>
+      <link type="reference" target="B171" />
+    </contents-item>
+
+    <contents-item id="199">
+      <title lang="default">32. iṅjīl marqus: sabaq 2</title>
+      <link type="reference" target="B172" />
+    </contents-item>
+
+    <contents-item id="200">
+      <title lang="default">33. iṅjīl marqus: sabaq 3</title>
+      <link type="reference" target="B173" />
+    </contents-item>
+
+    <contents-item id="201">
+      <title lang="default">34. iṅjīl marqus: sabaq 4</title>
+      <link type="reference" target="B174" />
+    </contents-item>
+
+    <contents-item id="202">
+      <title lang="default">35. iṅjīl marqus: sabaq 5</title>
+      <link type="reference" target="B175" />
+    </contents-item>
+
+    <contents-item id="203">
+      <title lang="default">36. iṅjīl marqus: sabaq 6</title>
+      <link type="reference" target="B176" />
+    </contents-item>
+
+    <contents-item id="204">
+      <title lang="default">37. iṅjīl marqus: sabaq 7</title>
+      <link type="reference" target="B177" />
+    </contents-item>
+
+    <contents-item id="205">
+      <title lang="default">38. iṅjīl marqus: sabaq 8</title>
+      <link type="reference" target="B178" />
+    </contents-item>
+
+    <contents-item id="206">
+      <title lang="default">39. iṅjīl marqus: sabaq 9</title>
+      <link type="reference" target="B179" />
+    </contents-item>
+
+    <contents-item id="207">
+      <title lang="default">40. iṅjīl marqus: sabaq 10</title>
+      <link type="reference" target="B180" />
+    </contents-item>
+
+    <contents-item id="208">
+      <title lang="default">41. iṅjīl marqus: sabaq 11</title>
+      <link type="reference" target="B181" />
+    </contents-item>
+
+    <contents-item id="209">
+      <title lang="default">42. iṅjīl marqus: sabaq 12</title>
+      <link type="reference" target="B182" />
+    </contents-item>
+
+    <contents-item id="210">
+      <title lang="default">43. iṅjīl marqus: sabaq 13</title>
+      <link type="reference" target="B183" />
+    </contents-item>
+
+    <contents-item id="211">
+      <title lang="default">44. iṅjīl marqus: sabaq 14</title>
+      <link type="reference" target="B184" />
+    </contents-item>
+
+    <contents-item id="212">
+      <title lang="default">45. iṅjīl marqus: sabaq 15</title>
+      <link type="reference" target="B185" />
+    </contents-item>
+
+    <contents-item id="213">
+      <title lang="default">46. iṅjīl marqus: sabaq 16</title>
+      <link type="reference" target="B186" />
+    </contents-item>
+
+    <contents-item id="214">
+      <title lang="default">47. iṅjīl marqus: sabaq 17</title>
+      <link type="reference" target="B187" />
+    </contents-item>
+
+    <contents-item id="215">
+      <title lang="default">48. iṅjīl marqus: sabaq 18</title>
+      <link type="reference" target="B188" />
+    </contents-item>
+
+    <contents-item id="216">
+      <title lang="default">49. iṅjīl marqus: sabaq 19</title>
+      <link type="reference" target="B189" />
+    </contents-item>
+
+    <contents-item id="217">
+      <title lang="default">50. iṅjīl marqus: sabaq 20</title>
+      <link type="reference" target="B190" />
+    </contents-item>
+
+    <contents-item id="218">
+      <title lang="default">51. iṅjīl marqus: sabaq 21 </title>
+      <link type="reference" target="B191" />
+    </contents-item>
+
+    <contents-item id="219">
+      <title lang="default">52. iṅjīl marqus: sabaq 22</title>
+      <link type="reference" target="B192" />
+    </contents-item>
+
+    <contents-item id="220">
+      <title lang="default">53. iṅjīl marqus: sabaq 23</title>
+      <link type="reference" target="B193" />
+    </contents-item>
+
+    <contents-item id="221">
+      <title lang="default">54. iṅjīl marqus: sabaq 24</title>
+      <link type="reference" target="B194" />
+    </contents-item>
+
+    <contents-item id="222">
+      <title lang="default">55. iṅjīl marqus: sabaq 25</title>
+      <link type="reference" target="B195" />
+    </contents-item>
+
+    <contents-item id="223">
+      <title lang="default">56. iṅjīl marqus: sabaq 26</title>
+      <link type="reference" target="B196" />
+    </contents-item>
+
+    <contents-item id="224">
+      <title lang="default">57. iṅjīl marqus: sabaq 27</title>
+      <link type="reference" target="B197" />
+    </contents-item>
+
+    <contents-item id="225">
+      <title lang="default">58. iṅjīl marqus: sabaq 28</title>
+      <link type="reference" target="B198" />
+    </contents-item>
+
+    <contents-item id="226">
+      <title lang="default">59. iṅjīl marqus: sabaq 29</title>
+      <link type="reference" target="B199" />
+    </contents-item>
+
+    <contents-item id="227">
+      <title lang="default">60. iṅjīl marqus: sabaq 30</title>
+      <link type="reference" target="B200" />
+    </contents-item>
+
+    <contents-item id="228">
+      <title lang="default">61. iṅjīl marqus: sabaq 31</title>
+      <link type="reference" target="B201" />
+    </contents-item>
+
+    <contents-item id="229">
+      <title lang="default">62. iṅjīl marqus: sabaq 32</title>
+      <link type="reference" target="B202" />
+    </contents-item>
+
+    <contents-item id="230">
+      <title lang="default">63. iṅjīl marqus: sabaq 33</title>
+      <link type="reference" target="B203" />
+    </contents-item>
+
+    <contents-item id="231">
+      <title lang="default">64. iṅjīl marqus: sabaq 34</title>
+      <link type="reference" target="B204" />
+    </contents-item>
+
+    <contents-item id="232">
+      <title lang="default">65. iṅjīl marqus: sabaq 35</title>
+      <link type="reference" target="B205" />
+    </contents-item>
+
+    <contents-item id="233">
+      <title lang="default">66. iṅjīl marqus: sabaq 36</title>
+      <link type="reference" target="B206" />
+    </contents-item>
+
+    <contents-item id="234">
+      <title lang="default">67. iṅjīl marqus: sabaq 37</title>
+      <link type="reference" target="B207" />
+    </contents-item>
+
+    <contents-item id="235">
+      <title lang="default">68. iṅjīl marqus: sabaq 38</title>
+      <link type="reference" target="B208" />
+    </contents-item>
+
+    <contents-item id="236">
+      <title lang="default">69. iṅjīl marqus: sabaq 39</title>
+      <link type="reference" target="B209" />
+    </contents-item>
+
+    <contents-item id="237">
+      <title lang="default">70. iṅjīl marqus: sabaq 40</title>
+      <link type="reference" target="B210" />
+    </contents-item>
+  </contents-items>
+
+  <contents-screens>
+    <contents-screen id="1">
+      <title lang="default">Home</title>
+      <items>
+        <item id="21" />
+        <item id="22" />
+        <item id="29" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="2">
+      <title lang="default">Urdu (Roman script)</title>
+      <items>
+        <item id="1" />
+        <item id="2" />
+        <item id="65" />
+        <item id="66" />
+        <item id="67" />
+        <item id="68" />
+        <item id="69" />
+        <item id="70" />
+        <item id="71" />
+        <item id="72" />
+        <item id="73" />
+        <item id="74" />
+        <item id="75" />
+        <item id="76" />
+        <item id="77" />
+        <item id="78" />
+        <item id="79" />
+        <item id="80" />
+        <item id="146" />
+        <item id="187" />
+        <item id="188" />
+        <item id="189" />
+        <item id="190" />
+        <item id="191" />
+        <item id="192" />
+        <item id="193" />
+        <item id="194" />
+        <item id="195" />
+        <item id="196" />
+        <item id="197" />
+        <item id="198" />
+        <item id="199" />
+        <item id="200" />
+        <item id="201" />
+        <item id="202" />
+        <item id="203" />
+        <item id="204" />
+        <item id="205" />
+        <item id="206" />
+        <item id="207" />
+        <item id="208" />
+        <item id="209" />
+        <item id="210" />
+        <item id="211" />
+        <item id="212" />
+        <item id="213" />
+        <item id="214" />
+        <item id="215" />
+        <item id="216" />
+        <item id="217" />
+        <item id="218" />
+        <item id="219" />
+        <item id="220" />
+        <item id="221" />
+        <item id="222" />
+        <item id="223" />
+        <item id="224" />
+        <item id="225" />
+        <item id="226" />
+        <item id="227" />
+        <item id="228" />
+        <item id="229" />
+        <item id="230" />
+        <item id="231" />
+        <item id="232" />
+        <item id="233" />
+        <item id="234" />
+        <item id="235" />
+        <item id="236" />
+        <item id="237" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="3">
+      <title lang="default">उर्दू (देवनागरी)</title>
+      <items>
+        <item id="20" />
+        <item id="19" />
+        <item id="30" />
+        <item id="31" />
+        <item id="50" />
+        <item id="51" />
+        <item id="53" />
+        <item id="54" />
+        <item id="55" />
+        <item id="56" />
+        <item id="57" />
+        <item id="58" />
+        <item id="59" />
+        <item id="60" />
+        <item id="61" />
+        <item id="62" />
+        <item id="63" />
+        <item id="64" />
+        <item id="121" />
+        <item id="122" />
+        <item id="123" />
+        <item id="124" />
+        <item id="125" />
+        <item id="126" />
+        <item id="127" />
+        <item id="128" />
+        <item id="129" />
+        <item id="130" />
+        <item id="131" />
+        <item id="133" />
+        <item id="81" />
+        <item id="82" />
+        <item id="83" />
+        <item id="84" />
+        <item id="85" />
+        <item id="86" />
+        <item id="87" />
+        <item id="88" />
+        <item id="89" />
+        <item id="91" />
+        <item id="94" />
+        <item id="90" />
+        <item id="92" />
+        <item id="93" />
+        <item id="95" />
+        <item id="96" />
+        <item id="97" />
+        <item id="98" />
+        <item id="99" />
+        <item id="100" />
+        <item id="101" />
+        <item id="102" />
+        <item id="103" />
+        <item id="104" />
+        <item id="105" />
+        <item id="106" />
+        <item id="107" />
+        <item id="108" />
+        <item id="109" />
+        <item id="110" />
+        <item id="111" />
+        <item id="112" />
+        <item id="113" />
+        <item id="114" />
+        <item id="115" />
+        <item id="116" />
+        <item id="117" />
+        <item id="118" />
+        <item id="119" />
+        <item id="120" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="4">
+      <title lang="default">اُردوٗ</title>
+      <items>
+        <item id="27" />
+        <item id="28" />
+        <item id="34" />
+        <item id="35" />
+        <item id="36" />
+        <item id="37" />
+        <item id="38" />
+        <item id="39" />
+        <item id="40" />
+        <item id="41" />
+        <item id="42" />
+        <item id="43" />
+        <item id="44" />
+        <item id="45" />
+        <item id="46" />
+        <item id="47" />
+        <item id="48" />
+        <item id="49" />
+        <item id="134" />
+        <item id="135" />
+        <item id="136" />
+        <item id="137" />
+        <item id="138" />
+        <item id="139" />
+        <item id="140" />
+        <item id="141" />
+        <item id="142" />
+        <item id="143" />
+        <item id="144" />
+        <item id="145" />
+        <item id="147" />
+        <item id="148" />
+        <item id="149" />
+        <item id="150" />
+        <item id="151" />
+        <item id="152" />
+        <item id="153" />
+        <item id="154" />
+        <item id="155" />
+        <item id="156" />
+        <item id="157" />
+        <item id="158" />
+        <item id="159" />
+        <item id="160" />
+        <item id="161" />
+        <item id="162" />
+        <item id="163" />
+        <item id="164" />
+        <item id="165" />
+        <item id="166" />
+        <item id="167" />
+        <item id="168" />
+        <item id="169" />
+        <item id="170" />
+        <item id="171" />
+        <item id="172" />
+        <item id="173" />
+        <item id="174" />
+        <item id="175" />
+        <item id="176" />
+        <item id="177" />
+        <item id="178" />
+        <item id="179" />
+        <item id="180" />
+        <item id="181" />
+        <item id="182" />
+        <item id="183" />
+        <item id="184" />
+        <item id="185" />
+        <item id="186" />
+      </items>
+    </contents-screen>
+  </contents-screens>
+</contents>
